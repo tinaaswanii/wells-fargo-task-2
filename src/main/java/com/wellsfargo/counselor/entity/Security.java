@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+package com.wellsfargo.counselor.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
