@@ -1,9 +1,9 @@
-package com.example.demo.entity;
+package com.wellsfargo.counselor.entity;
 
 import jakarta.persistence.*;
 
 @Entity
-public class FinancialAdvisor {
+public class FinancialAdvisor.java {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
